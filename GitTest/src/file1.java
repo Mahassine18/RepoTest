@@ -10,5 +10,8 @@ public class file1 {
 	public static void main (String arg[]){
 		
 		addition(5,7);
+		
+	System.out.println("Bonjour tout le monde");
+	
 	}
 }
