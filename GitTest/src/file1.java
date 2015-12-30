@@ -9,9 +9,7 @@ public class file1 {
 	
 	public static void main (String arg[]){
 		
+		System.out.println("La somme de 5+7");
 		addition(5,7);
-		
-	System.out.println("Bonjour tout le monde");
-	
 	}
 }
